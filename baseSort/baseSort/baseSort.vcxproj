@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E75C11D0-23E0-4F30-8816-BF47AFB4D275}</ProjectGuid>
+    <ProjectGuid>{A6B54D3A-50CE-4285-A2D8-86A6462DEFF5}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>rouletteSim</RootNamespace>
+    <RootNamespace>baseSort</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -149,7 +149,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="rouletteSim.cpp" />
+    <ClCompile Include="baseSort.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

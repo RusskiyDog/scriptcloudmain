@@ -1,5 +1,5 @@
 // stdafx.cpp : source file that includes just the standard includes
-// rouletteSim.pch will be the pre-compiled header
+// RussianNoteTaker.pch will be the pre-compiled header
 // stdafx.obj will contain the pre-compiled type information
 
 #include "stdafx.h"
